@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Title
+title: Welcome
 category: tech
 tags: [ 'welcome', 'hello' ]
 ---
