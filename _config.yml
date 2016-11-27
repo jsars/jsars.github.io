@@ -103,6 +103,8 @@ vkontakte-share: True
 
 syntax-highlight: True
 
+disqus-shortname: "jsars"
+
 ############
 # Timeline #
 ############
