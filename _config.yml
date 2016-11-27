@@ -140,7 +140,7 @@ email: "johniesarris@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Sarris is a Software Engineer. He lives in Paris, where he works on 3D manufacturing engineering projects."
+author_blurb: "Ioannis Sarris is a Software Engineer. He lives in Paris, where he works on 3D manufacturing engineering projects."
 author_blurb_image: "/img/author.png"
 
 ##################
