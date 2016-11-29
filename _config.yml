@@ -112,10 +112,10 @@ disqus-shortname: "jsars"
 events:
   - image: "/img/timeline/dassaultsystemes.jpg"
     date: "December 2014 - Today"
-    description: "Software Engineer at Dassault Systèmes"
+    description: "R&D Software Engineer at Dassault Systèmes"
   - image: "/img/timeline/oberthurtechnologies.jpg"
     date: "March 2013 - December 2014"
-    description: "Embedded Software Engineer at Oberthur Technologies"
+    description: "R&D Embedded Software Engineer at Oberthur Technologies"
   - image: "/img/timeline/orange.png"
     date: "August 2012 - January 2013"
     description: "R&D Engineer at Orange Labs"
@@ -140,7 +140,7 @@ email: "johniesarris@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Ioannis Sarris is a Software Engineer. He lives in Paris, where he works on 3D manufacturing engineering projects."
+author_blurb: "Ioannis Sarris is an Electronic & Computer Engineer. He lives in Paris, where he develops 3D manufacturing engineering apps."
 author_blurb_image: "/img/author.png"
 
 ##################
