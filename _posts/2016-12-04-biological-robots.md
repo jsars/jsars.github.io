@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 title: Biological Robots used for our health
-category: Tech
+category: tech
 tags: [ 'eligobiotic', 'biological-robot' ]
 ---
 
