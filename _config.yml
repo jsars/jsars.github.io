@@ -1,4 +1,3 @@
-
 # Site settings
 
 # NB! Set your site's url, otherwise stuff will break :)
@@ -55,7 +54,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: " 'If you don't believe in yourself no-one else will.' - Kobe Bryant"
+  - text: "If you don't believe in yourself no-one else will.' - Kobe Bryant"
 
 me-img: "/img/avatar.jpg"
 
