@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Biological Robots used for our health
 category: tech
-tags: [ 'eligobiotic', 'biological-robot' ]
+tags: [ 'eligobiotic', 'robot' ]
 ---
 
 According to the World Health Organization, in 2050, infections caused by ultra-resistant bacteria will be the world's leading cause of death.  Antibiotics destroy everything in their path, good bacteria and bad, which unbalances the human microbiota and can lead to the spawning of new germs.
