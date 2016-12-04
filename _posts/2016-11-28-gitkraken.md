@@ -22,11 +22,11 @@ GitKraken works directly with your repositories with no dependencies. It is buil
 
 ### Other features
 
-- Built-in merge tool
-- Integrate with your github or bitbucket account
-- git-submodules and git-flow support
-- One-click undo & redo
-- File history
-- Fast, intuitive search
-- View image diffs in app
-- Keyboard shortcuts
+* Built-in merge tool
+* Integrate with your github or bitbucket account
+* git-submodules and git-flow support
+* One-click undo & redo
+*  File history
+* Fast, intuitive search
+* View image diffs in app
+* Keyboard shortcuts
