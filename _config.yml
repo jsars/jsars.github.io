@@ -54,7 +54,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "'If you don't believe in yourself no-one else will.' - Kobe Bryant"
+  - text: "'If you don't believe in yourself no-one else will.'' - Kobe Bryant"
 
 me-img: "/img/avatar.jpg"
 
@@ -140,7 +140,7 @@ email: "johniesarris@gmail.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Ioannis Sarris is an Electronic & Computer Engineer. He lives in Paris, where he develops 3D manufacturing engineering apps."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/timeline/baracktocat.jpg"
 
 ##################
 # Social Buttons #
