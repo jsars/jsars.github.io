@@ -54,7 +54,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "''If you don't believe in yourself no-one else will.'' - Kobe Bryant"
+  - text: "''It always seems impossible until it's done'' - Nelson Mandela"
 
 me-img: "/img/avatar.jpg"
 
